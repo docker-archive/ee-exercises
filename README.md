@@ -1,6 +1,9 @@
-# Docker Fifth Birthday Labs
+# Docker Enterprise Edition Exercises
 
-No matter where you are in your Docker journey, the birthday events are meant to help demystify some Docker concepts and guide users along specific learning path depending on their use case and expertise level. Advanced Docker users and partners will be available on-site and act as mentors to help everyone complete the following hands-on labs.  
+No matter where you are in your Docker journey, these exercises are meant to help demystify some Docker concepts and guide users along specific learning path depending on their use case and expertise level.
+
+These workshops are only available to people in a pre-arranged workshop. That may happen through a [Docker Meetup](https://events.docker.com/chapters/), a conference workshop that is being led by someone who has made these arrangements, or special arrangements between Docker and your company. The workshop leader will provide you with the URL to a workshop environment that includes [Docker Enterprise Edition](https://www.docker.com/enterprise-edition). The environment will be based on [Play with Docker](https://labs.play-with-docker.com/).
+
 
 ## [Docker 101 - Linux](https://training.play-with-docker.com/dev-stage1/)
 An introduction to Docker on Linux that takes you through the basics of the platform, building your first containers, and deploying them in an orchestration system. People taking these labs will come out understanding the basics of Docker and orchestration.
