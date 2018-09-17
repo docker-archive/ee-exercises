@@ -62,10 +62,10 @@ First, set an environment variable `DTR_HOST` using the DTR host name defined on
 
 ![](./mta-java/images/session-information.png) 
 
-	```bash
-	$ export DTR_HOST=<dtr hostname>
-	$ echo $DTR_HOST
-	```
+```bash
+$ export DTR_HOST=<dtr hostname>
+$ echo $DTR_HOST
+```
 
 Next, here's how to build the app:
 
